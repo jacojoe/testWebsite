@@ -2,7 +2,7 @@
 layout: page
 title: "Om os"
 description: "Her kan du læse lidt om os"
-header-img: "img/about-bg.jpg"
+header-img: "img/Swingers-banner.jpg"
 ---
 
 # Om os
